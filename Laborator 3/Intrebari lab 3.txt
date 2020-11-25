@@ -1,0 +1,28 @@
+1. Definiti notiunea de forma complet normala dizjunctiva (conjuctiva) a functiei logice.
+Numin forma complet normala dizjunctiva a functiei logice suma logica a mintermenilor.
+Numim forma complet normala conjunctiva a functiei logice produsul logic a maxtermenilor.
+
+2. Definiti notiunea de mintermen (maxtermen).
+Mintermen - produsul logic al variabilelor luate cate una in stare directa sau inversa.
+Maxtermen - suma logica al variabilelor luate cate una in stare directa sau inversa.
+
+3. Numiti metodele de minimizare a functiilor logice.
+a) algebrica
+b) tabelelor Veitch-Karnaugh
+c) cuburilor
+d) Quin-McCluskey
+e) coeficientilor nedeterminanti
+
+4. Ce proprietati au tabelele Karnough?
+Utilizeaza pentru minimizare functiilor logice tabele de mintermeni. Numarul de celule in tabelele de 
+mintermeni depinde de numarul de variabile (ordinul) functiei logice supuse minimizarii si este determinat
+conform formulei Ncel = 2^m, unde m este nr. de variabile si sunt introdusi ca 1.
+
+5. Care sint etapele minimizarii functiei logice prin metoda Karnough?
+a) pregatirea tabelului de mintermeni
+b) introducerea mintermenilor in tabel
+c) formarea grupurilor de mintermeni, grupul se face din grupuri multipli a lui 2 
+
+6. Ce avantaje are dispozitivul numeric, construit conform functiilor logice minimizate, in comparatie 
+cu dispozitivul numeric, construit conform functiilor logice neminimizate.
+Au mai putine elemente logice de constructie.
