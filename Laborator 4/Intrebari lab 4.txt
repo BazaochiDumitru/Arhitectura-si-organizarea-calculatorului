@@ -1,0 +1,40 @@
+1. Prezentati definitia bistabilului.
+Bistabil - dispozitiv electronic logic care se poate afla in una din cele 2 stari posibile 
+(Q = 1, Q' = 0) si se utilizeaza pentru inscrierea, pastrarea si prezentarea unui bit
+(doi biti) de informatie.
+
+2. Faceti o clasificare generala a bistabililor utilizati in lucrarea de laborator.
+Dupa numarul de trepte si sincron/asincron.
+
+3. Care sunt functiile bistabililor?
+Inscrierea, pastrarea si prezentarea unui bit (doi biti) de informatie.
+
+4. Numiti starile in care pot sa se afle bistabilii RS sincron, RS asincron si D.
+Pastrarea starii precedente, initializarea bistabilului, inscrierea informatiei, stare interzisa.
+
+5. Numiti cauza aparitiei bistabilului D.
+Bistabilul de tip D a fost construit cu scopul inlaturarii neajunsului bistabilului 
+RS-sincron care nu permite aplicarea starii S=1, R=1.
+
+6. Numiti cauza aparitiei bistabilului cu doua trepte.
+Pentru a putea restabili informatia.
+
+7. Care sunt neajunsurile bistabililor cu o treapta?
+a) daca se inscrie o informatie noua, atunci informatia precedenta se sterge si nu poate fi 
+restabilita (bistabilul are o singura treapta); 
+b) starea S=1, R=1 este interzisa.
+
+8. Care sunt avantajele bistabililor cu doua trepte?
+- pastrarea informatiei precedente in treapta a doua dupa inscrierea unei informatii noi in prima 
+treapta, permite organizarea procedurii de restabilire a informatiei precedente.
+- are canal de comanda, este bistabil sincron.
+
+9. De ce bistabilul JK se mai numeste bistabil universal?
+Bistabilul JK se mai numeste bistabil universal deoarece poate inlocui cu mici modificari, alti
+bistabili si se utilizeaza pe larg pentru proiectarea si construirea dispozitivelor numerice.
+
+10. Ce se va intimpla cu starile Q ?i Q` ale bistabilului JK daca la intrari se va aplica JK=11?
+Starea precedenta se inverseaza.
+
+11. Ce dispozitive pot fi construite din bistabili?
+dispozitive numerice cu memorie (registre, contoare).
