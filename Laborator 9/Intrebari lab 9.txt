@@ -1,0 +1,30 @@
+1. Care este diferenta dintre operatia logica de sumare si operatia aritmetica de sumare?
+
+
+2. Ce numim semisumator, sumator complet si sumator?
+Numim semisumator un dispozitiv electronic combinational care sumeaza doua cifre binare.
+Numim sumator complet un dispozitiv electronic combinational care sumeaza trei cifre binare.
+Numim sumator un dispozitiv electronic combinational utilizat pentru sumarea codurilor.
+
+3. Desenati schema semisumatorului din elementele SAU – NU (SI – NU ) si verificati corectitudinea schemei.
+
+
+4. Prezentati deosebirile dintre sumatorul consecutiv, sumatorul paralel cu transfer consecutiv al depasirilor si sumatorul paralel cu transfer paralel al depasirilor.
+
+
+5. Ce modificari trebuie efectuate in schema electrica a sumatorului pentru a obtine unitatea de scadere pentru D > 0 si D < 0?
+
+
+6. Ce dispozitiv numeric poate fi utilizat pentru determinarea semnului numerelor.
+
+
+7. Numiti unele aplicatii ale sumatorului.
+- Sumarea numerelor 
+- Este utilizat in cadrul unitatii de scadere
+- Este utilizat in cadrul unitatii de inmultire
+
+8. Prezentati algoritmul de lucru al unitatii de inmultire.
+1. Daca inmultitorul este 1 atunci deinmultitul se repeta, daca inmultitorul este 0 atunci deinmultitul se egaleaza cu 0. Aceasta procedura poate fi inlocuita printr-un comutator care ar conecta/deconecta magistrala numarului A.
+2.  Dupa fiecare inmultire rezultatul se deplaseaza cu un ordin spre stanga.Constructiv aceata poate fi realizat prin plasarea elementelor unitatii de inmultire.
+3.  Toate rezultatele se aduna deci ca element principal al unitatii de inmultire trebuie folosit sumatorul.
+
