@@ -1,0 +1,34 @@
+1. Ce numim contor?
+Numim contor un dispozitiv electronic la iesirile caruia se obtine un cod binar, determinat de numarul de impulsuri aplicate la intrare.
+
+2. Numiti parametrii de baza a contoarelor.
+Contoarele au urmatorii parametri principali: 
+a) modulul de numarare – este determinat de numarul de impulsuri Nmax pe care le poate numara contorul; 
+b) viteza de lucru – este masurata in operatii pe secunda si depinde de frecventa maximala posibila a semnalului 
+de tactare utilizat de registru; 
+c) timpul de reactie – este un interval de timp din momentul aplicarii impulsului la intrarea contorului pina in 
+momentul instalarii starilor stabile pe toate iesirile contorului (delta Treac=1/Fmax); 
+d) parametrii electrici – marimea tensiunii, intensitatea curentului, energia electrica consumata etc.
+
+3. Cum se clasifica contoarele?
+Contoarele pot fi clasificate conform: 
+a) directiei de numarare – sumative (de adunare), de numerare inversa (de scadere) si reversibile; 
+b) modulului de numarare – binare, binar-zecimale, cu modul de numarare constant si cu modul de numarare arbitrar; 
+c) metodei de transfer a datelor dintre bistabili – cu transfer consecutiv, cu transfer paralel accelerat, 
+cu transfer combinat si cu transfer in ciclu; 
+d) procesului de schimbare a starilor bistabililor – sincroni si asincroni.
+
+4. Comparati schemele principiale ale contoarelor cu numarare directa si numarare inversa.
+
+
+5. Prezentati definitia contorului dupa modulul M?
+
+
+6. Ce functii poate indeplini contorul si pentru ce el este utilizat in calculator?
+Contoarele reprezinta dispozitive electronice care sunt construite pe baza bistabilelor si se utilizeaza pentru:
+a) elaborarea codurilor binare;
+b) determinarea intervalelor de timp;
+c) in calitate de divizoare a frecventei a semnanelor de tactare
+
+Contoarele sunt utilizate in cadrul dispozitivelor unde este necesar de a elabora careva coduri binare, determina diferite intervale de timp, de a diviza frecventa semnalelor de tactare. 
+
