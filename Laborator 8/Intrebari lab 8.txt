@@ -1,0 +1,36 @@
+1. Cum se definesc dispozitivele combinationale?
+Numim dispozitiv combinational un dispozitiv electronic numeric 
+utilizat pentru prelucrarea informa?iei fara memorizarea ei.
+
+2. Ce dispozitive combinationale cunoasteti?
+Decoder, coder, translator de cod, multiplexor, multiplexor generator, demultiplexor, comparator,sumator,
+semisumator, sumator complet, sumator consecutiv, sumator paralel.
+
+3. Ce numim multiplexor?
+Numim multiplexor un dispozitiv electronic combinational utilizat pentru 
+transmiterea informatiei din n (n>1) canale intr-un singur canal.
+
+4. Ce numim demultiplexor?
+Numim demultiplexor un dispozitiv electronic combinational utilizat 
+pentru transmiterea informatiei dintr-un canal in mai multe canale.
+
+5. Pe baza caror elemente logice sunt elaborate dispozitivele combinationale?
+
+
+6. Ce functii executa multiplexorul, demultiplexorul?
+Multiplexor:
+a) transmiterea informatiei din mai multe canale intr-un canal sau multiplexarea informatiei;
+b) transformarea unui cod binar paralel in cod binar consecutiv. In acest caz la intrari se aplica 
+un cod binar paralel care se men?ine un timp mai indelungat si cu ajutorul codurilor de dirijare sk-1, sk-2,...,s0 
+ti comutatorului K se unesc pe rind canalele de la intrare se unesc pe rind cu canalul de la ie?ire 
+(dupa finalizarea transmiterii codului la intrarile multiplexorului se aplica alt cod binar); 
+c) pentru generarea codurilor binare in ciclu – in acest caz la intrare se aplica permanent un cod binar, 
+iar pozitile comutatorului K se schimba ciclil sub actiunea semnalelor de dirijare sk-1, sk-2,...,s0.
+
+Denultiplexorul:
+a) transmiterea informatiei dintr-un canal in mai multe canale sau demultiplexarea (fragmentarea) informatiei; 
+b) transformarea unui cod binar consecutiv in cod binar pseudoparalel. In acest caz cu ajutorul codurilor 
+de dirijare sk-1, sk-2,...,s0 si comutatorului K se unesc pe rind canalele de la ie?ire cu canalul de la 
+intrare (dupa finalizarea transmiterii codului la intrarea demultiplexorului se aplica alt cod binar).
+
+7. Unde se utilizeaza multiplexorul, demultiplexorul?
