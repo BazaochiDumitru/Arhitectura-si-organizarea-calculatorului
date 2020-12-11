@@ -1,0 +1,25 @@
+1. Ce numim decoder?
+Numim decoder un dispozitiv electronic combinational care are k intrari si m=2k iesiri si este utilizat 
+pentru transformarea unui cod binar aplicat la intrari in semnal electric (logic 1 sau 0) numai la una din iesiri.
+
+2. Ce numim coder?
+Numim coder un dispozitiv electronic combinational care are k = 2m intrari si m iesiri si este utilizat pentru 
+transformarea semnalului electric (logic 1 sau 0) aplicat la una din intrari in cod binar prezentat la iesiri.
+
+3. Cite tipuri de decodere/codere sunt?
+Decoder complet, incomplet.
+Coder complet, incomplet.
+
+4. Ce functii pot indeplini decoderul/coderul?
+Decoderul este utilizat, in special, pentru a transforma codul binar in impuls de comanda. Impulsurile de comanda 
+se folosesc pentru dirijarea starilor de lucru ale dispozitivelor calculatorului. Decoderul este parte componenta 
+a unitatii de comanda a microprocesorului, al memoriei permanente si convertorului numeric-analogic (CNA).
+
+Coderul este utilizat, in special, pentru a transforma un semnal electric in cod binar. Coderul este parte 
+componenta a unitatii de comanda a microprocesorului, al memoriei permanente si convertorului analogic-numeric (CAN).
+
+5. Ce numim translator de cod?
+Translatorul de cod este un dispozitiv construit din decoder si coder si serveste pentru conectarea dispozitivelor care au magistrale de date de ordin diferit.
+
+6. In ce dispozitive se folosesc impreuna coderul si decoderul?
+Unitatea de memorie permanenta.
