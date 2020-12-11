@@ -1,0 +1,36 @@
+1. Ce numim registru?
+Numim registru un dispozitiv electronic numeric construit din bistabili care se utilizeaza 
+pentru inscrierea, pastrarea, prelucrarea/transformarea ?i prezentarea unui cuvint de informa?ie.
+
+2. Numiti parametrii de baza ai registrilor.
+Registrele au urmatorii parametri principali: 
+   a) ordinul – este determinat de numarul de biti al cuvintului de informatie care poate fi inscris 
+inregistr sau de numarul de bistabili ai registrului; 
+   b) viteza de lucru – este masurata in operatii pe secunda ti depinde de frecven?a maximala posibila 
+a semnalului de tactare utilizat de registru; 
+   c) timpul de acces – este un interval de timp din momentul aplicarii la intrarea registrului a 
+instruc?iunei de afisare a inform?iei pina in momentul afisarii informa?iei pe magistrala de date; 
+   d) parametrii electrici – frecven?a nominala si maximala a semnalului de tactare, marimea tensiunii, 
+intensitatea curentului, energia electrica consumata etc.
+
+3. Cum se clasifica registrii?
+Registrele pot fi construite din orice tip de bistabili ?i se clasifica conform urmatoarelor criterii: 
+  a) conform modului de inscriere a informatiei; 
+  b) conform modului de prezentare a informatiei; 
+  c) conform modului de prelucrare a informatiei.
+
+4. Ce functii poate indeplini registrul de tip paralel?
+1.	R=1, instalarea in starea initiala
+2.	Conectarea/deconectarea registrului de la magistrala de date C=1 conectat; C=0 deconectat;
+3.	C0=1 (R=0) inscrierea informatiei
+4.	C0=0 (R=0) pastrarea informatiei
+
+
+5. Ce functii poate indeplini registrul de tip consecutiv cu deplasare directa?
+1.	R=1, initializarea
+2.	C=1 inscrierea informatiei
+3.	C=0 regim de pastrare
+4.	Prezentarea informatiei in cod paralel direct si invers
+
+
+6. Ce functii poate indeplini registrul de tip consecutiv cu deplasare inversa?
